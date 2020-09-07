@@ -12,7 +12,6 @@ import java.util.List;
 
 @Controller
 public class HomeController {
-
     @Autowired
     Covid19DataService covid19DataService;
 
